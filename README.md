@@ -33,7 +33,7 @@ We will start by exploring each of the datasets to understand the information th
 ------------
 
     ├── data
-    │   ├── processed      <- The final cleaned data set produced by running this project.
+    │   ├── processed      <- The final cleaned data set produced from running the                │   │                      "cleaning-nyc-hs-data" project.
     │   └── raw            <- The original, immutable data dump.
     │
     ├── notebooks          <- Jupyter notebooks. Naming convention is a number (for ordering),
@@ -45,7 +45,7 @@ We will start by exploring each of the datasets to understand the information th
     ├── .gitignore         <- Files and folders for Git to ignore tracking.
     ├── LICENSE
     ├── README.md          <- The top-level README for users of this project.    
-    ├── requirements.txt   <- The requirements file for reproducing the analysis environment.
+    └── requirements.txt   <- The requirements file for reproducing the analysis environment.
                               Generated with `conda list -e > requirements.txt`.
 
 
