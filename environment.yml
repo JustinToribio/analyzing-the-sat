@@ -1,0 +1,7 @@
+name: project_env
+channels:
+  - defaults
+dependencies:
+  - jupyter
+  - pandas
+  - python=3.7.1
