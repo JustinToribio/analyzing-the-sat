@@ -6,5 +6,6 @@ dependencies:
   - cartopy
   - jupyter
   - matplotlib
+  - numpy
   - pandas
   - python=3.7.1
