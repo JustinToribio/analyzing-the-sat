@@ -9,7 +9,7 @@ The goal of this project is to examine if the SAT (Scholastic Aptitude Test) is 
 We will explore SAT and NYC (New York City) high school data to answer this question. We will examine the Pearson correlation coefficients between SAT scores and the other columns in our dataset to identify the variables with the strongest connections to SAT performance. We will then explore the strongest correlated columns further to uncover any bias in the SAT. We will create various data visualizations, such as scatter and map plots, to aid our investigation.  
 
 ## Viewing the project  
-For proper rendering, I recommend viewing the project in nbviewer [here](https://nbviewer.jupyter.org/github/JustinToribio/cleaning-nyc-hs-data/blob/master/notebooks/1.0-jt-clean-nyc-hs-data.ipynb).  
+For proper rendering, I recommend viewing the project in nbviewer [here](https://nbviewer.jupyter.org/github/JustinToribio/analyzing-the-sat/blob/master/notebooks/1.0-jt-analyze-the-sat.ipynb).  
 
 Alternatively, you can view the project directly in GitHub by going to the `notebooks` folder of this repository.  However, there are some rendering issues when viewing Jupyter Notebooks in GitHub.  
 
