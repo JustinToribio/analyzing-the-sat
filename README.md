@@ -24,7 +24,7 @@ Alternatively, you can view the project directly in GitHub by going to the `note
 
 ### Reproduce the project environment and launch the Jupyter Notebook
 * From the command line, run the following commands:    
-    * Make sure you are in the parent directory of this repository (i.e. "/analyzing-the-SAT", "/analyzing-the-SAT-master" etc..., whatever you named it when you downloaded/cloned it): `cd <path-to-repo-parent-directory>`  
+    * Make sure you are in the parent directory of this repository (i.e. "/analyzing-the-sat", "/analyzing-the-sat-master" etc..., whatever you named it when you downloaded/cloned it): `cd <path-to-repo-parent-directory>`  
     * Reproduce the project environment: `conda env create -f environment.yml`  
     * Activate the environment:  
         * On Windows: `activate project_env`  
