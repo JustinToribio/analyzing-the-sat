@@ -1,4 +1,6 @@
-# Is the SAT unfair? Exploring and visualizing the data to find out
+# Is the SAT unfair? 
+
+## Exploring and visualizing the data to find out
 ==============================  
 
 ## Goal of this project
