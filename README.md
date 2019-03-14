@@ -39,9 +39,8 @@ Alternatively, you can view the project directly in GitHub by going to the `note
 ## Project organization
 ------------
 
-    ├── data
-    │   └── processed      <- The final cleaned dataset produced from running the
-    │                         "cleaning-nyc-hs-data" project
+    ├── data               <- The final cleaned dataset produced from running the
+    │                         "cleaning-nyc-hs-data" project      
     │
     ├── notebooks          <- Jupyter notebooks. Naming convention is a number (for ordering),
     │                         the creator's initials, and a short "-" delimited description, e.g.
