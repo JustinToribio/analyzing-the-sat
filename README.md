@@ -7,7 +7,10 @@
 The goal of this project is to examine if the SAT (Scholastic Aptitude Test) is unfair to any particular groups of students.  The annual SAT is used by U.S. colleges and universities to determine which students to admit into their programs.  
 
 ## Approach
-We will explore SAT and NYC (New York City) high school data to answer this question. We will examine the Pearson correlation coefficients between SAT scores and the other columns in our dataset to identify the variables with the strongest connections to SAT performance. We will then explore the strongest correlated columns further to uncover any bias in the SAT. We will create various data visualizations, such as scatter and map plots, to aid our investigation.  
+We will explore SAT and NYC (New York City) high school data to answer this question.  We will examine the Pearson correlation coefficients between SAT scores and the other columns in our dataset to identify the variables with the strongest connections to SAT performance.  We will then explore the strongest correlated columns further to uncover any bias in the SAT.  We will create various data visualizations, such as scatter, bar and map plots, to aid our investigation.  
+
+## Summary of results  
+At first glance, there appears to be some racial bias in the SAT, in favor of White and Asian students and against Hispanic students.  It also appears that schools with larger student populations and class sizes outperform smaller schools on the SAT.  However, further analysis suggests that the socioeconomic status of the students' families and whether they are English language learners are the most relevant factors tied to SAT performance.  
 
 ## Viewing the project  
 For proper rendering, I recommend viewing the project in nbviewer [here](https://nbviewer.jupyter.org/github/JustinToribio/analyzing-the-sat/blob/master/notebooks/1.0-jt-analyze-the-sat.ipynb).  
