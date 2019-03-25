@@ -36,7 +36,7 @@ Alternatively, you can view the project directly in GitHub by going to the `"not
     * Launch the Jupyter Notebook: `jupyter notebook notebooks/1.0-jt-analyze-the-sat.ipynb`
 
 ### Run the Jupyter Notebook
-* From the Jupyter Notebook `1.0-jt-analyze-the-sat.ipynb`:  
+* From the Jupyter Notebook `"1.0-jt-analyze-the-sat.ipynb"`:  
     * To run each cell one at a time: click `Run` in the top control panel or press `Shift + Enter`
     * To run all of the cells: click `Kernel` in the menu bar and then `Restart & Run All`
 
